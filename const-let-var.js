@@ -8,7 +8,7 @@ if (x == 1) {
   let x = 2;
   console.log(x); // 2
 }
-console.log(x); // 2
+console.log(x); // 1
 // var permite declarar variables mas de una vez, con el mismo alcance. Mientras que let no
 
 // CONSTANTES
